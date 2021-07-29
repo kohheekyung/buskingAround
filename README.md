@@ -3,9 +3,6 @@
 
 # GPS기반의 거리공연 어플리케이션 
 
-[![Downloads Stats][npm-downloads]][npm-url]
-
-
 <p align="center">
   <img width="350" src="/images/busk.png">
 </p>
