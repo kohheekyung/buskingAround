@@ -1,8 +1,8 @@
 
 
 
-# GPS기반의 거리공연 라이브 방송 어플리케이션 
-GPS based street performance broadcasting application 
+# GPS기반 거리공연 추천 및 라이브 방송 어플리케이션 
+GPS based street performance recommendation & broadcasting application 
 
 <p align="center">
   <img width="350" src="/images/busk.png">
